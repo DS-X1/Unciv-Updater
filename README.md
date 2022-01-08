@@ -20,5 +20,4 @@ Install AutoHotKey at https://www.autohotkey.com/download/ and click "Download A
 Go to its installation directory --> Compiler --> Ahk2Exe.exe to compile the Updater
 
 To compile the Extractor:
-Get PS2EXE-GUI from https://github.com/MScholtes/TechNet-Gallery/tree/master/PS2EXE-GUI
-Compile the Unciv_Extractor.ps1 file.
+Get PS2EXE-GUI from https://github.com/MScholtes/TechNet-Gallery/tree/master/PS2EXE-GUI, then compile the Unciv_Extractor.ps1 file from there.
