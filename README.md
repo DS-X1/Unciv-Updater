@@ -5,7 +5,7 @@ A simple tool which automatically updates Unciv to its latest version.
 
 Extract the zip file into the directory/folder where Unciv is installed. If the folder where Unciv is installed is called "Unciv-Windows64", then drop the two exe files there.
 
-Run the updater, it should download the 64-bit zip of the latest Unciv release at https://github.com/yairm210/Unciv.
+Run the updater, it should download the 64-bit/32-bit zip (depending on which version you downloaded) of the latest Unciv release at https://github.com/yairm210/Unciv.
 
 After you have recieved the prompt stating the download has finished, run the Unciv_Extractor.exe program. It will extract the contents of the zip to a new folder called "Unciv". 
 
