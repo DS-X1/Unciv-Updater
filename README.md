@@ -1,9 +1,9 @@
 # Unciv-Updater
-A simple ahk tool which automatically updates Unciv to its latest version.
+A simple tool which automatically updates Unciv to its latest version.
 
 # How to actually use the tool
 
-Extract the zip file into the *directory/folder where Unciv is installed*. If the folder where Unciv is installed is called "Unciv-Windows64", then drop the two exe files there.
+Extract the zip file into the directory/folder where Unciv is installed. If the folder where Unciv is installed is called "Unciv-Windows64", then drop the two exe files there.
 
 Run the updater, it should download the 64-bit zip of the latest Unciv release at https://github.com/yairm210/Unciv.
 
