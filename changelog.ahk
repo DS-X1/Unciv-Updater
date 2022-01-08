@@ -12,5 +12,7 @@ MsgBox, 4,UncivUpdater, The latest version is %cleanversion%. Would you like to 
 
 IfMsgBox Yes
  URLDownloadToFile, https://github.com/yairm210/Unciv/releases/download/%cleanversion%/Unciv-Windows64.zip, Unciv-Windows64.zip
- MsgBox,0 , Finished, The update has finished downloading.
+ MsgBox,4 , Finished, The update has finished downloading. Would you like to extract the zip file?
+ IfMsgBox Yes
+  Run, Unciv_Extractor.exe
  
