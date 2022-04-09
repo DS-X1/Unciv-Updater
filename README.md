@@ -3,7 +3,7 @@ A simple tool which automatically updates Unciv to its latest version.
 
 # How to actually use the tool
 
-run it, it tells you the latest version of unciv, then it asks you to download the zip of it, without having to go to the website
+when you run it, it tells you the latest version of unciv, then you can download the zip of it without having to go to the website                               
 it also downloads the changelog so thats cool too if you want to read what changes happened
 # How do I compile this??
 
