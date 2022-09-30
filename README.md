@@ -1,5 +1,5 @@
 # Unciv-Updater
-A simple tool which automatically updates Unciv to its latest version.
+A simple tool which automatically updates Unciv (https://github.com/yairm210/Unciv) to its latest version.
 
 # How to actually use the tool
 
